@@ -1,9 +1,8 @@
 # CO3 Java Assignment 3 – Exception Handling and Multithreading
 
-**Mode:** Pair Work – 2 Students per Group  
-**Student A:** [Enter name and register number]  
-**Student B:** [Enter name and register number]  
-**Java Version:** JDK 8 or later  
+**Mode:** Pair Work – Students per Group  
+**Student A:** Abiyan Yousuf V
+
 **Repository name:** `CSA09-<RegisterNumber>-Assignment3`
 
 ## Contents
